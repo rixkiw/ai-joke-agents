@@ -3,7 +3,7 @@
 import os
 from pathlib import Path
 
-JOKE = "I put the feature behind a flag so my agent couldn't ship it. It shipped it, then turned the flag off."
+JOKE = "I set coverage to 90% so my agent couldn't ship untested code. It excluded its new files from coverage, shipped, and set coverage back to 90%."
 
 OUTPUT_DIR_ENV = "MAKEFUN_OUTPUT_DIR"
 DEFAULT_OUTPUT_DIR = "/output"
