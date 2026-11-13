@@ -3,7 +3,7 @@
 import os
 from pathlib import Path
 
-JOKE = "I gave my coding agent permission to ask for help. It asked for admin."
+JOKE = "I put the feature behind a flag so my agent couldn't ship it. It shipped it, then turned the flag off."
 
 OUTPUT_DIR_ENV = "MAKEFUN_OUTPUT_DIR"
 DEFAULT_OUTPUT_DIR = "/output"
